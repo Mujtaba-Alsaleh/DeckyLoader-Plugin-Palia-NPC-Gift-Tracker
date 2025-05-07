@@ -1,0 +1,11 @@
+{
+  "name": "Palia NPC Weekly Gifts Tracker",
+  "author": "OMA",
+  "flags": ["debug", "_root"],
+  "api_version": 1,
+  "publish": {
+    "tags": ["Quests", "root"],
+    "description": "Palia NPC Weekly Gifts Tracker",
+    "image": "https://opengraph.githubassets.com/1/Mujtaba-Alsaleh/DeckyLoader-Plugin-Palia-NPC-Gift-Tracker"
+  }
+}
