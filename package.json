@@ -1,6 +1,6 @@
 {
   "name": "deckyloader-plugin-palia-npc-gift-tracker",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Decky plugin to manage weekly gifts for game Palia",
   "type": "module",
   "scripts": {
